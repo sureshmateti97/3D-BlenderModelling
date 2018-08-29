@@ -1,2 +1,2 @@
 # 3D-BlenderModelling
-Human Figure 
+Assets made in both Maya and Blender
